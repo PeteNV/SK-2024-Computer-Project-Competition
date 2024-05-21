@@ -15,10 +15,10 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-To run the proejtc:
-
+To run the project:
+```
 python src/main.py
-
+```
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for further details.
