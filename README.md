@@ -14,7 +14,7 @@ cd SK-2024-Computer-Project-Competition
 pip install -r requirements.txt
 ```
 
-Moreover, please make sure that your File Paths, LINE and Imgur API keys and are set correctly.
+Moreover, please make sure that you have downloaded YOLOv3 weight and configurations file at https://pjreddie.com/darknet/yolo and ensure that File Paths, LINE and Imgur API keys and are set/configured correctly.
 ## Usage
 To run the project:
 ```
