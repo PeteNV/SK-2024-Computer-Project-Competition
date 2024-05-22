@@ -14,6 +14,7 @@ cd SK-2024-Computer-Project-Competition
 pip install -r requirements.txt
 ```
 
+Moreover, please make sure that your File Paths, LINE and Imgur API keys and are set correctly.
 ## Usage
 To run the project:
 ```
