@@ -1,1 +1,4 @@
-
+opencv-python
+requests
+Line-bot-sdk
+numpy
