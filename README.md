@@ -2,7 +2,9 @@
 
 ## Acknowledgement
 
-During processes of research, the researchers have faced their challenges and difficulty, their advisors and friends have immensely supported them through the whole process. Without Mrs. Awasthi and Mr. Raborar's supervision and feedback, the research wouldn't have been successful. Furthermore, Krittaphat T. and Thitikan S. have provided them with extreme support to make the research a success. The researchers would like to show their utmost sincere appreciation to the four.
+During processes of research, the researchers have faced their challenges and difficulty, their advisors and friends have immensely supported them through the whole process. Without Mrs. Awasthi and Mr. Raborar's supervision and feedback, the research wouldn't have been successful. Furthermore, Krittaphat T. and Thitikan S. have provided them with extreme support to make the research a success. 
+
+The researchers would like to show their utmost sincere appreciation to the four.
 
 ## Introduction
 
