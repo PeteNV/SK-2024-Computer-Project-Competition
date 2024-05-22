@@ -8,15 +8,12 @@ import warnings
 warnings.filterwarnings("ignore", category=LineBotSdkDeprecatedIn30)
 
 # Set your LINE Channel Access Token and Secret
-channel_access_token = (
-    'LbSqSqaJ3HPNaDNGt1Nsed3SBupWtURIgeCdMcA/4oH3xMODM0NmUrz5W105tI6MBIs9jlGBLBCgoHDLQK3Gh640qp'
-    '+Y6aahu37S4eRsUBkQWKPfrJL/LMWiB34F8iXdIbLLRb+107Q8LFHN0+fl3AdB04t89/1O/w1cDnyilFU='
-)
+channel_access_token = (YOUR LINE CHANNEL ACCESS TOKEN HERE)
 
-channel_secret = 'ba945a47b602a65fe0c380a90ee90ff3'
+channel_secret = 'YOUR LINE CHANNEL SECRET HERE'
 
 # Replace with your actual Line user ID
-user_id = 'U0374fd264aeadd7f483dff6ed8e568e7'
+user_id = 'YOUR LINE USER ID PROVIDED IN THE DEVELOPER CONSOLE'
 
 # Create a LineBotApi instance
 line_bot_api = LineBotApi(channel_access_token)
@@ -117,7 +114,7 @@ while True:
         print("Knife detected")
 
         # Upload the image to Imgur and get the image URL
-        imgur_client_id = '6d5b8aa0a550a4d'
+        imgur_client_id = 'YOUR IMGUR CLIENT ID'
         response = requests.post(
             'https://api.imgur.com/3/upload',
             headers={'Authorization': f'Client-ID {imgur_client_id}'},
